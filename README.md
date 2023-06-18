@@ -1,3 +1,3 @@
 # GamesWeb101
 This is a website that I made so me and my friends can play games on our school iPads. I sure hope this doesn't get blocked...
-Go to http://Cloud-boi.github.io/GamesWeb101 to access the website.
+Go to http://Cloud-boi.github.io to access the website.
