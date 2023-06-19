@@ -1,3 +1,2 @@
 # GamesWeb101
-This is a website that I made so me and my friends can play games on our school iPads. I sure hope this doesn't get blocked...
-Go to http://Cloud-boi.github.io to access the website.
+I made this website mostly to learn how to code html, CSS, and javascript (but I already knew a lot of javascript). You can play games on this site, obviously. It was a ton of fun making it, and I hope you have fun playing the embedded games.
