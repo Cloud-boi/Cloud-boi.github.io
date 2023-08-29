@@ -1,0 +1,154 @@
+/*
+Headings: #08A300
+Normal Text: #4bbd12
+
+
+*/
+
+.game-button {
+    border: none;
+    
+    text-align: center;
+    display: block;
+    font-size: 18px;
+    
+    
+    object-fit: cover;
+    width: 180px;
+    height: 180px;
+    cursor: pointer;
+}
+
+
+
+
+.back-home-button {
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    transform: translateY(-64px);
+}
+  
+.back-home-button {
+    background-color: #353535; 
+    color: #4CAF50; 
+    border: 2px solid #4CAF50;
+}
+  
+.back-home-button:hover {
+    background-color: #4CAF50;
+    color: #353535;
+    border: 2px solid #353535;
+}
+
+.back-home-button:active {
+    background-color: #337435;
+    color: #ffffff;
+    
+    
+}
+
+.home-page-button {
+    border: none;
+    color: #ffffff;
+    padding: 16px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 32px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%);
+    width: 300px;
+}
+
+.home-page-button {
+    background-color: #353535;
+    color: #4CAF50;
+    border: 2px solid #4CAF50;
+    
+}
+
+.home-page-button:hover {
+    background-color: #4CAF50;
+    color: #353535;
+    border: 2px solid #353535;
+    
+}
+
+.home-page-button:active {
+    background-color: #337435;
+    color: #ffffff;
+    
+    
+    
+}
+
+
+html {
+    font-size: 20px; 
+    font-family: "Open Sans", sans-serif; 
+    background-color: #000000;
+}
+
+body {
+    width: 90%;
+    margin: 0 auto;
+    background-color: #353535;
+    padding: 10px 20px 20px 20px;
+    border: 5px solid rgb(255, 255, 255);
+}
+
+h1 {
+    margin: 0;
+    font-size: 60px;
+    text-align: center;
+    color: #08A300
+}
+
+h2 {
+    margin: 0;
+    font-size: 22px;
+    text-align: center;
+    color: #08A300;
+}
+
+p, li {
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: 2;
+    font-weight: bold;
+    color: #4bbd12
+}
+
+footer {
+    margin-top: 50px;
+    font-size: 12px;
+    text-align: center;
+    color: #08A300
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: auto;
+    height: auto;
+}
+
+iframe {
+    width: 90vw;
+    height: 90vh;
+    border-radius: 1px;
+    border-color: rgba(0, 0, 0, 0)
+}
+  
